@@ -6,9 +6,9 @@ class Theme
 {
 
     /**
-     * Configure the CSS of the Theme
+     * Configure the CSS of the Theme.
      * 
-     * @return String $before_after   Wether the new field must be append before or after the one defined in the first parameter
+     * @return Array
      */
     public function getCss()
     {                   
